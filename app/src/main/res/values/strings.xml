@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Nagwa Materials</string>
+
+    <string name="button_allow">Allow</string>
+    <string name="button_deny">Deny</string>
+
+    <string name="permission_rationale">Storage permission is needed to download the file.</string>
+    <string name="permission_denied">Storage permission was denied. Please consider granting it in order to access the storage!</string>
+    <string name="permission_never_ask_again">Storage permission was denied with never ask again.</string>
+    <string name="retry">Retry</string>
+    <string name="no_data">Sorry there is no material found</string>
+</resources>
